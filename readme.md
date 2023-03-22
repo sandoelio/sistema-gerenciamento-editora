@@ -9,7 +9,8 @@
 
 ## Procedimentos
 
-Para baixar o projeto um crud simples com EDITAR/VISUALIZAR/INSERIR livros,autores,preço e paginas em laravel 5.8
+# Crud de biblioteca em laravel 5.8
+
 Faça o clone ou baixe o projeto
 Composer update
 Configure o ENV.
